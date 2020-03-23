@@ -24,6 +24,6 @@ Click [here](https://codeload.github.com/EdDeAlmeidaJr/currency_converter/zip/ma
 
 - Example:
 
-```nome <path_you_used_to_unzip>/converter.js USD BRL```
+```node <path_you_used_to_unzip>/converter.js USD BRL```
 
 will show the rate of one USD (United States Dollar) to BRL (Brazilian Real).
